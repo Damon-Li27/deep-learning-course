@@ -1,0 +1,1 @@
+使用卷积层、池化层和全连接层对手指进行识别。使用tensorflow的tf.keras.Sequential函数构建CNN模型
